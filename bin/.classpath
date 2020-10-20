@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/kowthal ganesh/Desktop/Java/sigar-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kowthal ganesh/workspace/OffLoading/poi-1.8.0-dev-20020919.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kowthal ganesh/workspace/OffLoading/javax.mail.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/kowthal ganesh/workspace/OffLoading/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kowthal ganesh/workspace/OffLoading/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
